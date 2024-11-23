@@ -1,6 +1,6 @@
 # devPortal
 
-A Portal channel is your gateway to the Portal Network—a collective of developer communities united to share access, resources, and knowledge.
+A Discord #portal channel opens your gateway to the Portal Network — a collective of developer communities united to share access, resources, and knowledge.
 
 ## What is the Portal Network?
 The Portal Network connects Discord servers that share a passion for openness, collaboration, and innovation. By joining, communities provide their members with access to a broader ecosystem of technologies, tools, and expertise that no single group can achieve alone.
