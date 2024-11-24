@@ -25,7 +25,7 @@ The Portal Network is a curated database of Discord servers that are united by a
 - Fork this repository
 - Add your server's metadata to the `servers.json` file in the following format:
 
-`
+```
 {
   "name": "Your Server Name",
   "invite": "https://discord.gg/yourinvitecode",
@@ -34,7 +34,7 @@ The Portal Network is a curated database of Discord servers that are united by a
   "category": "Technology",
   "member_count": 1200
 }
-`
+```
 
 - Submit a pull request (PR) with your changes.
 
@@ -45,7 +45,7 @@ The Portal Network is a curated database of Discord servers that are united by a
 
 # Respository Structure 
 
-`
+```
 /README.md           # Explanation of the Portal Network and metadata repository
 /metadata/           
   - categories.json  # List of server categories
@@ -54,7 +54,7 @@ The Portal Network is a curated database of Discord servers that are united by a
   - CONTRIBUTING.md  # Contribution guidelines
   - FAQ.md           # Frequently Asked Questions
   - CODE_OF_CONDUCT.md # Community guidelines
-`
+```
 
 # Contributing
 
