@@ -21,7 +21,7 @@ The Portal Network is a curated database of Discord servers that are united by a
 
 # How to Join the Portal Network
 
-1) Add your Server to the Repository
+1) **Add your Server to the Repository**
 - Fork this repository
 - Add your server's metadata to the `servers.json` file in the following format:
 
@@ -38,7 +38,7 @@ The Portal Network is a curated database of Discord servers that are united by a
 
 - Submit a pull request (PR) with your changes.
 
-2) Follow the Guidelines
+2) **Follow the Guidelines**
 - Servers must align with the Portal Network’s vision of collaboration and openness.
 - Ensure your metadata is accurate and up-to-date.
 - Respect all contribution guidelines and the code of conduct.
