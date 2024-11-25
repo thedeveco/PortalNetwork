@@ -1,0 +1,85 @@
+/*
+ * Portal Network Categories Metadata
+ * ----------------------------------
+ * This file defines the structure and categories for Discord servers in the Portal Network.
+ * 
+ * Features of the Structure:
+ * - "id": A unique numeric identifier for each category.
+ * - "name": The name of the category.
+ * - "description": A brief description of the category to help users understand its focus.
+ *
+ * Usage:
+ * - Used to categorize Discord servers within the Portal Network for easier navigation and discovery.
+ * - Referenced by the Portal Network bot to validate, filter, and display categories.
+ * - Helps contributors choose appropriate categories when adding new servers to the network.
+ */
+
+ {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Technology",
+        "description": "Communities focused on programming, development, and cutting-edge technologies."
+      },
+      {
+        "id": 2,
+        "name": "Artificial Intelligence & Machine Learning",
+        "description": "Servers dedicated to AI, ML, and related technologies."
+      },
+      {
+        "id": 3,
+        "name": "Hardware Development",
+        "description": "Communities for hardware design, embedded systems, and electronics."
+      },
+      {
+        "id": 4,
+        "name": "Gaming",
+        "description": "Gaming communities, game development, and eSports."
+      },
+      {
+        "id": 5,
+        "name": "Web Development",
+        "description": "Servers focused on front-end, back-end, and full-stack web development."
+      },
+      {
+        "id": 6,
+        "name": "Cloud & DevOps",
+        "description": "Communities exploring cloud computing, DevOps practices, and infrastructure."
+      },
+      {
+        "id": 7,
+        "name": "IoT & Robotics",
+        "description": "Groups interested in Internet of Things (IoT) and robotics technologies."
+      },
+      {
+        "id": 8,
+        "name": "Open Source",
+        "description": "Communities contributing to and collaborating on open-source projects."
+      },
+      {
+        "id": 9,
+        "name": "Data Science & Analytics",
+        "description": "Servers dedicated to data analysis, visualization, and statistical methods."
+      },
+      {
+        "id": 10,
+        "name": "Design & UX",
+        "description": "Communities exploring user experience, interface design, and digital creativity."
+      },
+      {
+        "id": 11,
+        "name": "Special Interest Groups (SIGs)",
+        "description": "Focused groups with specific technological or hobby-related interests."
+      },
+      {
+        "id": 12,
+        "name": "Education & Training",
+        "description": "Servers offering courses, tutorials, and mentoring for developers."
+      },
+      {
+        "id": 13,
+        "name": "General Developer",
+        "description": "Broad developer-focused communities that cover multiple aspects of software, hardware, and tech innovation."
+      }
+    ]
+  }
